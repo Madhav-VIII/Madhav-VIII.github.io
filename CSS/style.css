@@ -124,12 +124,12 @@
   
   .inner p
   {
-      color:rgba(168, 189, 210, 0.5);
+      color:rgba(255, 255, 255, 0.5);
   }
   
   .inner p em
   {
-      color:rgb(187, 193, 255);
+      color:rgb(253, 253, 253);
       font-style:normal;
   }
   
